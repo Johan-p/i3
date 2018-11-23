@@ -1,0 +1,8 @@
+#shows the version of the dns server
+# the @ is to talk to a specific dns server
+dig @x.x.x.x version.bind chaos txt
+
+#show the dns records of a server
+#this will return a list of dns records and more.
+dig x.x.x.x
+

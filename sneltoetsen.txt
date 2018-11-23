@@ -1,0 +1,30 @@
+windowstoets + shift + e logout pop up.
+
+windowstoests + pijltje switch naar andere pannel
+
+windowstoests + h voor horizontaal uitlijning
+
+windowstoets + enter voor nieuwe terminal
+
+windowstoets + v voor verticale uitlijning
+
+windowstoets + shift + pijltje swappen van pannels naar richting van de pijl.
+
+windowstoets + shift + nummer voor switchen van item naar andere workspace
+
+windwostoets + nummer voor switchen naar andere workspace.
+
+windowstoets + shift + s lock screen
+
+#Wifi
+nmcli dev wifi
+
+mcli device wifi connect APname password
+
+#disown
+In combo met background job &
+nm-applet &
+
+#fix selenium indien niet werkt
+export PATH=$PATH:/root/Downloads/geckodriver-v0.23.0-linux64
+
