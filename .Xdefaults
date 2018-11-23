@@ -1,0 +1,57 @@
+Xft.dpi:                        96
+URxvt*termName:                 rxvt-256color
+URxvt*font:                     xft:Inconsolata:size=16
+URxvt.depth:                    0
+URxvt*lineSpace:                1
+URxvt.letterSpace:              -1
+URxvt.iso14755:                 false
+URxvt.iso14755_52:              false
+URxvt*geometry:                 80
+URxvt.scrollBar:                false
+URxvt*loginShell:               true
+URxvt.internalBorder:           10
+URxvt.perl-ext-common:          default,matcher
+URxvt.keysym.Shift-Control-C:   perl:clipboard:copy
+URxvt.keysym.Shift-Control-V:   perl:clipboard:paste
+URxvt.clipboard.autocopy:       true
+URxvt.cursorBlink:		true
+
+URxvt.url-launcher: /usr/bin/xdg-open
+URxvt.matcher.button: 1
+
+! Colors
+*background:   #000000
+*foreground:   #3ae178
+*cursorColor:  #3ae178
+
+!zwart en bolt zwart
+*color0:      #33303b
+*color8:      #4f4b58
+
+!rood
+*color1:      #ff5c57
+*color9:      #ff5c57
+
+!groen
+*color2:      #5af78e
+*color10:     #5af78e
+
+!geel
+*color3:      #f3f99d
+*color11:     #f3f99d
+
+!blauw
+*color4:      #57c7ff
+*color12:     #57c7ff
+
+!paars
+*color5:      #ff6ac1
+*color13:     #ff6ac1
+
+!cyaan
+*color6:      #9aedfe
+*color14:     #9aedfe
+
+!wit
+*color7:      #27980d
+*color15:     #27980d
